@@ -8,6 +8,7 @@ System.out.println("second commit");
 System.out.println("devloper changed");
 //changes
 System.out.println("changes ");
+System.out.println("fearture 1 brach changes");
 	}
 
 }
